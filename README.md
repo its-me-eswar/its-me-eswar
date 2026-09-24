@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/its-me-eswar/its-me-eswar/refs/heads/main/banner.png" width="100%" alt="Eswaraiah Sapram — Frontend Developer" />
+  <img src="https://raw.githubusercontent.com/its-me-eswar/its-me-eswar/refs/heads/main/Banner-1.png" width="100%" alt="Eswaraiah Sapram — Frontend Developer" />
 </p>
 
 
