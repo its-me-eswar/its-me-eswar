@@ -33,36 +33,63 @@ Hi, I'm **Eswar**, a Senior Software Engineer with **7+ years of experience** bu
 📫 **Let's connect and build something amazing!**
 
 
-## 💼 Professional Experience
+<h2>💼 Professional Experience</h2>
 
-### 🔴 Senior Software Engineer | Red Hat
-**June 2024 – Present**
+<details open>
+<summary>
+  <b>🔴 Senior Software Engineer — Red Hat</b> | Jun 2024 – Present
+</summary>
 
-- Leading frontend architecture and development of the **Scorecard plugin** for Red Hat Developer Hub (RHDH).
-- Designed scalable and reusable React-based UI components and shared abstractions.
-- Implemented configurable KPIs, role-based access control (RBAC), and threshold-based visualizations.
-- Collaborated with product managers, designers, and backend engineers to deliver product features.
-- Improved code quality and reliability through Jest and Playwright testing.
+<br/>
 
-**Tech Stack:** React.js, TypeScript, Backstage, Redux, Material UI, Jest, Playwright
+- Leading frontend architecture and technical delivery of scalable web applications.
+- Designing reusable React components and shared abstractions to improve development efficiency.
+- Building intuitive, responsive, and accessible user interfaces using modern frontend technologies.
+- Collaborating with product managers, designers, and backend engineers to deliver high-quality features.
+- Establishing testing practices and improving code quality, maintainability, and application performance.
+- Contributing to architectural decisions and continuous improvements across the development lifecycle.
 
-### 🟢 Software Engineer | Intuit
-**September 2022 – March 2024**
+**Tech Stack:** React.js, TypeScript, JavaScript, Redux, Material UI, Backstage, Jest, Playwright
 
-- Worked on the Payments team, developing and maintaining payment experiences.
-- Contributed to a Micro Frontend Architecture to consolidate multiple payment experiences.
-- Built reusable and maintainable UI components using React and Redux.
+</details>
+
+<hr/>
+
+<details>
+<summary>
+  <b>🟢 Software Engineer — Intuit</b> | Sep 2022 – Mar 2024
+</summary>
+
+<br/>
+
+- Developed and maintained scalable frontend applications for payment experiences.
+- Contributed to Micro Frontend Architecture to consolidate and streamline multiple payment experiences.
+- Built reusable UI components and state management solutions using React and Redux.
 - Integrated frontend applications with backend services using GraphQL.
-- Improved application reliability through automated testing.
+- Improved application reliability, maintainability, and performance through testing and optimization.
+- Collaborated with cross-functional teams to deliver customer-focused product features.
 
 **Tech Stack:** React.js, JavaScript, Redux, GraphQL, Cypress, Playwright, Jest
 
-### 🔵 Software Engineer | CodeCraft Technologies
-**January 2021 – September 2022**
+</details>
 
-- Developed and maintained responsive web applications using modern frontend technologies.
-- Built reusable UI components and collaborated with cross-functional teams.
-- Focused on improving application usability, maintainability, and performance.
+<hr/>
+
+<details>
+<summary>
+  <b>🔵 Software Engineer — CodeCraft Technologies</b> | Jan 2021 – Sep 2022
+</summary>
+
+<br/>
+
+- Developed responsive and interactive web applications using modern frontend technologies.
+- Built reusable UI components and modular frontend solutions.
+- Collaborated with designers and backend engineers to implement product requirements.
+- Improved application usability, maintainability, and performance.
+- Participated in code reviews, debugging, and testing to ensure code quality.
 
 **Tech Stack:** JavaScript, React.js, HTML5, CSS3
+
+</details>
+
 
